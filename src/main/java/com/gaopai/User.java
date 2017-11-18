@@ -12,4 +12,13 @@ private String  sex;
     public void setAge(int age) {
         this.age = age;
     }
+
+
+    public String getSex() {
+        return sex;
+    }
+
+    public void setSex(String sex) {
+        this.sex = sex;
+    }
 }
